@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/66c1fca2-c948-4e46-9367-a9fb29293a42.svg)](https://wakatime.com/@66c1fca2-c948-4e46-9367-a9fb29293a42)
 <!--
 **Tagazoul/Tagazoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
